@@ -1,0 +1,217 @@
+package operators;
+
+
+
+public class aneefop {
+
+
+
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+int a=9,b=7;
+System.out.println(a+b);
+System.out.println(a*b);
+System.out.println(a%b);
+System.out.println(a-b);
+System.out.println(a/b);
+
+
+
+}
+
+
+
+}
+
+
+
+
+public class assign1 {
+
+
+
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+int a;
+System.out.println(a=5);
+System.out.println(a+=1);
+System.out.println(a*=3);
+
+
+
+}
+
+
+
+}
+
+
+
+
+
+public class binary1 {
+
+
+
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+int a=10;
+System.out.println(a<<2);
+System.out.println(a>>2);
+System.out.println(a>>>2);
+
+
+
+}
+
+
+
+}
+
+
+
+
+public class bitwise1 {
+
+
+
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+int a=10,b=5,c=3;
+System.out.println(a|c);
+System.out.println(a&c);
+
+
+
+}
+
+
+
+}
+
+
+
+public class log1 {
+
+
+
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+int a=10,b=5,c=3;
+System.out.println(a>b && a<c);
+System.out.println(a>b || a<c);
+
+
+
+}
+
+
+
+}
+
+
+
+
+
+public class reltn1 {
+
+
+
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+int a=10,b=5,c=3,d=2;
+System.out.println(a>=b);
+System.out.println(a==c);
+System.out.println(a!=d);
+System.out.println(b<c);
+
+
+
+
+
+
+}
+
+
+
+}
+
+
+
+
+
+public class unary {
+
+
+
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+int a=10;
+System.out.println(a++);
+System.out.println(++a);
+
+
+
+}
+
+
+
+}
+
+
+
+
+public class unary2 {
+
+
+
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+int a=10;
+System.out.println(a--);
+System.out.println(--a);
+
+
+
+}
+
+
+
+}
+
+
+
+
+public class unary3 {
+
+
+
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+int a=10;
+System.out.println(-a);
+
+
+
+}
+
+
+
+}
+
+
+
+
+public class unary4 {
+
+
+
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+boolean a=false;
+System.out.println(!a);
+
+
+
+}
+
